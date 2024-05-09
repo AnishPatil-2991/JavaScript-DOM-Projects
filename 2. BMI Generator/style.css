@@ -1,0 +1,43 @@
+*{
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainMaal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.results{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.weightGuide{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.bmiCalculator{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#realCalc{
+    height: 30px;
+    width: 80px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

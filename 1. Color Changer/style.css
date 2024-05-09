@@ -1,0 +1,39 @@
+body{
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+}
+.holder{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.holder2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.holder3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttons{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+#aqua{
+    background-color: aqua;
+}
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+}
+#purple{
+    background-color: purple;
+}
